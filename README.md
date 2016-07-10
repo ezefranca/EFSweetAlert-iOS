@@ -64,12 +64,34 @@ enum AlertStyle {
     case CustomImag(imageFile:String)
 }
 ```
-###Installation
+## Installation
+
+#### <img src="https://dl.dropboxusercontent.com/u/11377305/resources/cocoapods.png" width="24" height="24"> [CocoaPods]
+
+[CocoaPods]: http://cocoapods.org
+
+To install it, simply add the following line to your **Podfile**:
+
+```ruby
+pod "EFSweetAlert-iOS"
+```
+
+You will also need to make sure you're opting into using frameworks:
+
+```ruby
+use_frameworks!
+```
+
+Then run `pod install` with CocoaPods 1.0 or newer.
+
+#### Manually
+
 Add the `SwiftAlert.swift` in to your project.
 
-###Reuirements
-- Xcode 7.0+
-- iOS 7.0+
+## Requirements
+
+* iOS 8.0+
+* Xcode 7 (Swift 2.2)
 
 ## License
 
