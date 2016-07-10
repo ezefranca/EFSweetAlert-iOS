@@ -1,5 +1,11 @@
-Sweet Alert iOS
+===
+This is a fork of [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) with CocoaPods support.
+
+EFSweetAlert-iOS
 ==============
+[![Build Status](https://travis-ci.org/ezefranca/EFSweetAlert-iOS.svg)](https://travis-ci.org/ezefranca/EFSweetAlert-iOS)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EFSweetAlert-iOS.svg)](https://img.shields.io/cocoapods/v/EFSweetAlert-iOS.svg)
+[![Platform](https://img.shields.io/cocoapods/p/EFSweetAlert-iOS.svg?style=flat)](http://cocoadocs.org/docsets/EFSweetAlert-iOS)
 
 Beautiful Animated custom Alert View inspired from javascript library [SweetAlert](http://tristanedwards.me/sweetalert).
 Written in Swift this SweetAlertView can be used in Swift and Objective-C projects. SweetAlertView provides live intutive experience to user actions.It can be used in place of `UIAlertView` and `UIAlertController`
