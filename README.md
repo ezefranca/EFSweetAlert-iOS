@@ -4,7 +4,11 @@ This is a fork of [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS
 EFSweetAlert-iOS
 ==============
 [![Build Status](https://travis-ci.org/ezefranca/EFSweetAlert-iOS.svg)](https://travis-ci.org/ezefranca/EFSweetAlert-iOS)
-
+[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
+)](https://developer.apple.com/iphone/index.action)
+[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
+)](https://developer.apple.com/swift)
+[![CocoaPods](https://img.shields.io/badge/pod-v0.0.4-blue.svg)]()
 
 
 Beautiful Animated custom Alert View inspired from javascript library [SweetAlert](http://tristanedwards.me/sweetalert).
