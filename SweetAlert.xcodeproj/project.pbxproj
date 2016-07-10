@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		784864ED6A0B7AF68C8DE1D8 /* SweetAlert.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 784869A188ADBAB6A90C84DF /* SweetAlert.podspec */; };
 		9B4286E81A0D2F5C00E9913B /* SweetAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4286E71A0D2F5C00E9913B /* SweetAlert.swift */; };
 		9B4286EB1A0D2F7700E9913B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4286E91A0D2F7700E9913B /* AppDelegate.swift */; };
 		9B4286EC1A0D2F7700E9913B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4286EA1A0D2F7700E9913B /* ViewController.swift */; };
@@ -171,7 +170,6 @@
 				9B4286F41A0D2FAF00E9913B /* Main.storyboard in Resources */,
 				9B4286F91A0D2FC500E9913B /* logo_big.png in Resources */,
 				9BCAC7A51A0E0B3600282753 /* thumb.jpg in Resources */,
-				784864ED6A0B7AF68C8DE1D8 /* SweetAlert.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
