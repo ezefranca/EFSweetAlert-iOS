@@ -2,6 +2,5 @@ language: objective-c
 osx_image: xcode7.3
 script:
 - set pipefail
-- xcodebuild -project SweetAlert-iOS.xcodeproj -scheme SweetAlert-iOS test -sdk macosx | xcpretty
 - xcodebuild -project SweetAlert-iOS.xcodeproj -scheme SweetAlert-iOS test -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO | xcpretty
-- pod lib lint --quick
+- pod lib lint --quick --allow-warnings
